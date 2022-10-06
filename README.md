@@ -2,4 +2,4 @@
 Library Management System
 ->To run the project we need to install wamp server
 ->In wamp server create a database name library.
-->Now open https://localhost/Library_Books_Manager in browser
+->Now open https://localhost/Library-Books-Manager in browser
